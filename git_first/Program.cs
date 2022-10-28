@@ -21,7 +21,6 @@ namespace git_first
                     }
                 }
             }
-
             Console.WriteLine("Вывод отсортированного массива");
             for (int i = 0; i < nums.Length; i++)
             {
